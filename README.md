@@ -5,7 +5,7 @@ A path-weighted framework for anticipating societal trajectories.
 **Authors:** Hyun Ho Jung (KAIST Graduate School of Future Strategy)
 **Status:** Manuscript submitted to *Nature Human Behaviour* (2026)
 **Version:** v0.4 (2026-05-25)
-**Zenodo DOI:** [TBD upon Zenodo deposit]
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.20370479 (Concept DOI — always latest)
 
 ---
 
@@ -88,7 +88,7 @@ If you use this code or data, please cite:
 ```
 
 Replication archive (data + code with DOI):
-- Zenodo: [TBD upon deposit]
+- Zenodo: https://doi.org/10.5281/zenodo.20370479 (Concept DOI) · https://doi.org/10.5281/zenodo.20370480 (v1)
 - This GitHub repository: https://github.com/Chunghyunho/spim-nhb-2026
 
 ## Companion work
