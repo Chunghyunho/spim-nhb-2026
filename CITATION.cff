@@ -9,7 +9,7 @@ authors:
 version: "0.4.0"
 date-released: "2026-05-25"
 license: MIT
-repository-code: "https://github.com/[YOUR_USERNAME]/spim-nhb-2026"
+repository-code: "https://github.com/Chunghyunho/spim-nhb-2026"
 preferred-citation:
   type: article
   authors:

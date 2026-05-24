@@ -89,7 +89,7 @@ If you use this code or data, please cite:
 
 Replication archive (data + code with DOI):
 - Zenodo: [TBD upon deposit]
-- This GitHub repository: https://github.com/[YOUR_USERNAME]/spim-nhb-2026
+- This GitHub repository: https://github.com/Chunghyunho/spim-nhb-2026
 
 ## Companion work
 
