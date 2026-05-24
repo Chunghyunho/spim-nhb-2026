@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+
+# Large data files (V-Dem CSV is 396 MB — exceeds GitHub limit)
+data/vdem/
+data/V-Dem-CY-Full+Others-v16.csv
+data/vdem_*.csv
+*.csv.bak
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporary
+*.tmp
+.cache/

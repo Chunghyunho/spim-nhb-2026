@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software."
+title: "Where Institutions Fail, Stress Becomes Repression: replication code and data"
+authors:
+  - family-names: "Jung"
+    given-names: "Hyun Ho"
+    affiliation: "KAIST Graduate School of Future Strategy"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # fill after ORCID registration
+version: "0.4.0"
+date-released: "2026-05-25"
+license: MIT
+repository-code: "https://github.com/[YOUR_USERNAME]/spim-nhb-2026"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jung"
+      given-names: "Hyun Ho"
+  title: "Where institutions fail, stress becomes repression: A path-weighted framework for anticipating societal trajectories"
+  journal: "Nature Human Behaviour"
+  year: 2026
+  notes: "Under review"
